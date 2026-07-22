@@ -1,5 +1,4 @@
 # Molecular-docking-of-Acetylcholine-with-Acetylcholinesterase
-# 🧬 Molecular Docking of Acetylcholine with Human Acetylcholinesterase (PDB: 4BDT)
 
 This project demonstrates molecular docking of Acetylcholine (ACh) with Human Acetylcholinesterase (AChE) using SwissDock. The objective was to estimate the binding affinity of acetylcholine within the enzyme's active site.
 
